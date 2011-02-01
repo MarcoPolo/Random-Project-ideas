@@ -1,0 +1,1 @@
+OAuthToken{token='rnAWTOneQCPpel6LUGf9TcIS4cI7onAGgZZ02E87w', tokenSecret='xaIwy31UQ7wlC7q8d8svLC5ng9jUwHIsNteeUxcLSg', secretKeySpec=javax.crypto.spec.SecretKeySpec@64b4f9bf}

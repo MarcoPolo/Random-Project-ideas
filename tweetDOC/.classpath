@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="/home/marco/idea/java-twitter-0.9-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/commons-lang-2.6/json-lib-2.4-jdk15.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/commons-lang-2.6/joda-time-1.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/commons-lang-2.6/joda-time-1.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/commons-lang-2.6/joda-time-1.6.2.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/commons-lang-2.6/guava-r07-gwt.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/commons-lang-2.6/guava-r07.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/commons-lang-2.6/commons-lang-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/commons-lang-2.6/commons-lang-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/commons-lang-2.6/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/commons-lang-2.6/protobuf-2.3.0/java/target/protobuf-java-2.3.0.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/twitter4j-2.1.12-SNAPSHOT.zip"/>
+	<classpathentry kind="lib" path="/home/marco/idea/twitter4j-2.1.11.zip"/>
+	<classpathentry kind="lib" path="/home/marco/idea/twitter4j-2.1.11/lib/twitter4j-media-support-2.1.11.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/twitter4j-2.1.11/lib/twitter4j-examples-2.1.11.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/twitter4j-2.1.11/lib/twitter4j-core-2.1.11.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/twitter4j-2.1.11/twitter4j-examples/twitter4j-examples-2.1.11-sources.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/twitter4j-2.1.11/twitter4j-examples/twitter4j-examples-2.1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/twitter4j-2.1.11/twitter4j-core/twitter4j-core-2.1.11-sources.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/twitter4j-2.1.11/twitter4j-core/twitter4j-core-2.1.11-javadoc.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/twitter4j-2.1.11/twitter4j-media-support/twitter4j-media-support-2.1.11-sources.jar"/>
+	<classpathentry kind="lib" path="/home/marco/idea/twitter4j-2.1.11/twitter4j-media-support/twitter4j-media-support-2.1.11-javadoc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
